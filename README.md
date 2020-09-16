@@ -1,4 +1,4 @@
-# Crud-PHP-MySQL
+# Crud+PHP+MySQL
 
 Trabalho de conclusão modular etec 19/20  em PHP + MySQL + Bootstrap
 
